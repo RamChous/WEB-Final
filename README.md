@@ -38,13 +38,8 @@ The Fitness Platform Website is a static HTML-based application designed to empo
 
 ## Structure Enhancements
 - **Styling and Interactivity**: Add CSS and JavaScript for enhanced design and user experience.
-- **Backend Integration**: Implement a backend (e.g., Node.js, Django) for dynamic user authentication, course enrollment, and search functionality.
 - **Database Support**: Store user profiles, progress, and reviews dynamically.
-- **Accessibility**: Incorporate ARIA attributes and ensure WCAG compliance.
-- **Responsive Design**: Optimize for mobile and tablet devices using CSS frameworks like Bootstrap or Tailwind.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+- **Responsive Design**: Optimize for mobile and tablet devices using CSS frameworks like Bootstrap.
 
 ## Contact
 For questions or feedback, reach out via:
