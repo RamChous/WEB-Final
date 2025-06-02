@@ -43,6 +43,6 @@ The Fitness Platform Website is a static HTML-based application designed to empo
 
 ## Contact
 For questions or feedback, reach out via:
-- **Email**: fitsupp@gmail.com
+- **Email**: support@fittracker.com
 - **Phone**: +77087275477
 - **Address**: Mangilik el C1, Astana, Kazakhstan
